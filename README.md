@@ -2,7 +2,7 @@
 
 ## Description
 
-Assignment of refactoring the Horiseon homepage considering html and css readbility and site accessibility applying things leaarned in week on of bootcamp
+Assignment of refactoring the Horiseon homepage with html and css readbility and site accessibility considdrations applying things leaarned in week one of bootcamp
 
 ## Credits
 
